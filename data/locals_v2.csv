@@ -1,0 +1,101 @@
+id,name,has_fb,has_ig,lat,lng,is_vet,is_suscribed
+0,Chang-Fisher,0,1,-2.90055,-79.00453,0,0
+1,Faulkner-Howard,1,0,-2.13404,-79.59415,1,0
+2,Taylor-Davis,0,0,-2.13404,-79.59415,0,0
+3,Garcia-Jones,1,0,-2.13404,-79.59415,0,0
+4,Hamilton-Carr,0,0,-2.90055,-79.00453,0,0
+5,Grimes-Green,0,0,-2.13404,-79.59415,1,1
+6,Cortez Group,0,0,-2.13404,-79.59415,0,0
+7,"Snyder, Dillon and Sanchez",0,1,-2.13404,-79.59415,0,0
+8,"Walker, Pratt and Thomas",1,0,-2.90055,-79.00453,1,0
+9,"Bolton, Burns and Turner",1,1,-2.90055,-79.00453,1,1
+10,"Harris, Lloyd and Payne",1,1,-2.90055,-79.00453,1,0
+11,Johnston-Roberts,1,1,-2.90055,-79.00453,0,0
+12,Jones-Shelton,1,1,-2.13404,-79.59415,1,1
+13,Villanueva PLC,0,0,-2.90055,-79.00453,1,1
+14,"Cain, Atkinson and Jacobson",0,0,-2.90055,-79.00453,1,1
+15,Vasquez-Davidson,0,0,-2.90055,-79.00453,0,0
+16,Nguyen Inc,0,1,-2.13404,-79.59415,0,1
+17,Smith LLC,1,1,-2.13404,-79.59415,0,1
+18,Simmons-Brown,0,0,-2.13404,-79.59415,0,0
+19,Montoya Ltd,0,0,-2.13404,-79.59415,0,1
+20,Martinez and Sons,0,0,-2.90055,-79.00453,0,0
+21,Wood Inc,1,1,-2.13404,-79.59415,0,1
+22,"Martinez, Clark and Owen",1,0,-2.90055,-79.00453,1,1
+23,"Garcia, Green and Walker",1,0,-2.13404,-79.59415,0,0
+24,Gordon Inc,0,0,-2.90055,-79.00453,0,1
+25,Green Ltd,0,1,-2.13404,-79.59415,0,0
+26,"Chambers, Levy and Brown",0,0,-2.90055,-79.00453,0,1
+27,"King, Carlson and Ramos",1,1,-2.90055,-79.00453,1,1
+28,"Golden, Lowery and Banks",0,1,-2.13404,-79.59415,0,1
+29,"Vazquez, Ellis and Miller",0,0,-2.13404,-79.59415,1,1
+30,Gill Group,1,1,-2.90055,-79.00453,0,0
+31,"Arroyo, Schultz and Oliver",1,0,-2.90055,-79.00453,1,1
+32,"Miller, Wheeler and Hale",1,1,-2.90055,-79.00453,0,1
+33,Page-Nunez,1,0,-2.90055,-79.00453,1,0
+34,"Fletcher, Martin and Brown",1,0,-2.90055,-79.00453,1,1
+35,"Munoz, Smith and Williams",0,1,-2.13404,-79.59415,1,0
+36,Lopez-Key,1,0,-2.13404,-79.59415,1,1
+37,Morales Ltd,1,1,-2.13404,-79.59415,1,0
+38,"Fischer, Baird and Lowe",1,0,-2.13404,-79.59415,0,0
+39,Ramirez-Good,0,1,-2.90055,-79.00453,1,0
+40,"Miller, Hill and Chavez",0,0,-2.13404,-79.59415,0,1
+41,"Meyer, Curtis and Reed",1,0,-2.13404,-79.59415,1,0
+42,Williams Ltd,1,1,-2.90055,-79.00453,1,1
+43,"Browning, Williams and Curry",0,0,-2.90055,-79.00453,0,0
+44,"Graham, Savage and Thompson",1,1,-2.13404,-79.59415,1,1
+45,Nelson LLC,0,0,-2.90055,-79.00453,0,1
+46,"Johnson, Nelson and Hernandez",1,0,-2.13404,-79.59415,1,0
+47,Wilson-Cross,1,0,-2.13404,-79.59415,1,0
+48,Powell-Murphy,1,1,-2.90055,-79.00453,1,0
+49,Rogers-Yates,1,0,-2.13404,-79.59415,1,1
+50,"Jimenez, Johnson and Rogers",1,0,-2.13404,-79.59415,0,0
+51,"Cunningham, Drake and Frey",0,1,-2.13404,-79.59415,1,0
+52,"Walker, Cruz and Garcia",1,0,-2.90055,-79.00453,1,0
+53,"Klein, Robinson and Miller",0,1,-2.13404,-79.59415,1,1
+54,Lee-Wilson,0,0,-2.13404,-79.59415,0,1
+55,"Hayes, Rhodes and Wilson",1,1,-2.13404,-79.59415,0,1
+56,Hanson Inc,1,1,-2.13404,-79.59415,1,0
+57,Hinton Group,1,1,-2.90055,-79.00453,0,1
+58,"Simpson, Stark and Morris",1,1,-2.13404,-79.59415,0,0
+59,"Lynch, Robinson and Peterson",0,0,-2.90055,-79.00453,1,1
+60,Warren LLC,1,0,-2.90055,-79.00453,1,1
+61,"Phillips, Mccarthy and Ruiz",0,0,-2.13404,-79.59415,0,1
+62,Perez Inc,0,1,-2.90055,-79.00453,1,1
+63,Atkins-Owen,1,0,-2.90055,-79.00453,0,0
+64,"Reyes, Moreno and Johnson",0,1,-2.13404,-79.59415,0,0
+65,"Simmons, Fischer and Roberts",1,0,-2.90055,-79.00453,1,1
+66,Lawson-Hall,1,0,-2.13404,-79.59415,1,0
+67,"White, Hunter and Scott",0,1,-2.90055,-79.00453,0,0
+68,Cruz-Reyes,0,1,-2.13404,-79.59415,0,1
+69,Blair-Cook,1,0,-2.13404,-79.59415,1,1
+70,Wu-Guzman,0,1,-2.90055,-79.00453,0,0
+71,Johnson-Owens,1,1,-2.13404,-79.59415,0,1
+72,Johnson PLC,1,1,-2.90055,-79.00453,1,1
+73,Reyes Group,1,1,-2.90055,-79.00453,1,1
+74,"Chen, Morgan and Martinez",0,0,-2.13404,-79.59415,1,0
+75,Lloyd-Stark,0,0,-2.13404,-79.59415,0,0
+76,"Dalton, Forbes and Johnson",1,1,-2.13404,-79.59415,0,1
+77,Kelly-Chen,0,0,-2.13404,-79.59415,1,1
+78,Scott-Johnson,0,0,-2.13404,-79.59415,0,1
+79,Davis Ltd,0,0,-2.90055,-79.00453,1,1
+80,"Torres, Wilson and Simmons",0,0,-2.13404,-79.59415,1,0
+81,Brown-Perry,0,1,-2.90055,-79.00453,1,1
+82,Parks-Johnson,0,0,-2.90055,-79.00453,1,1
+83,Gomez Inc,1,1,-2.90055,-79.00453,0,1
+84,Smith and Sons,1,0,-2.13404,-79.59415,1,0
+85,Smith Ltd,0,0,-2.13404,-79.59415,1,0
+86,"Smith, Wood and Johnson",0,0,-2.13404,-79.59415,0,0
+87,Rodriguez-Cooper,1,0,-2.13404,-79.59415,1,1
+88,Rogers-Woodward,0,1,-2.90055,-79.00453,1,0
+89,Watkins Inc,0,1,-2.13404,-79.59415,0,0
+90,Hurst-Bautista,1,0,-2.13404,-79.59415,1,0
+91,Fischer LLC,0,1,-2.13404,-79.59415,1,0
+92,"Smith, Miller and Jones",0,1,-2.13404,-79.59415,0,0
+93,"Henderson, Walsh and Miller",1,1,-2.13404,-79.59415,1,1
+94,Ortiz-Butler,1,0,-2.13404,-79.59415,0,0
+95,Carter-Ruiz,0,0,-2.90055,-79.00453,1,0
+96,Grant Ltd,0,1,-2.90055,-79.00453,0,1
+97,Saunders Group,0,1,-2.90055,-79.00453,1,1
+98,"Thomas, Ford and Walsh",1,1,-2.13404,-79.59415,1,0
+99,"Cole, Murray and Robinson",0,1,-2.90055,-79.00453,1,1
